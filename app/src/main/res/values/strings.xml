@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="failed_connection">Failed connect to internet</string>
+    <string name="search">search</string>
+    <string name="news_title">First Trailer for Elton John biopic Rocketman realeased</string>
+    <string name="news_date">2018-10-01T10:57:00Z</string>
+    <string name="article">article</string>
+    <string name="date">date</string>
+    <string name="type">type</string>
+    <string name="film">Film</string>
+</resources>
